@@ -10,7 +10,7 @@ qiskit-experiments
 scipy>=1.0
 
 # Linters
-black~=22.0
+black>=24.3.0
 pylint==2.12.1
 
 # Documentation
