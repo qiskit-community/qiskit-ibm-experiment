@@ -1,3 +1,6 @@
+> [!WARNING]  
+> **This repo is no longer being actively maintained.**
+
 # Qiskit IBM Experiment service
 
 **Qiskit** is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
